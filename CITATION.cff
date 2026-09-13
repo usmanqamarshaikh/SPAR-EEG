@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Please cite the associated TNSRE article when using SPAR-EEG."
+title: "SPAR-EEG: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel EEG Denoising"
+type: software
+version: 1.0.0
+date-released: 2026-09-13
+repository-code: "https://github.com/usmanqamarshaikh/SPAR-EEG"
+authors:
+  - family-names: Shaikh
+    given-names: Usman Qamar
+    orcid: "https://orcid.org/0009-0000-0171-3940"
+  - family-names: Kalra
+    given-names: Anubha Manju
+    orcid: "https://orcid.org/0000-0001-7908-3053"
+  - family-names: Lowe
+    given-names: Andrew
+    orcid: "https://orcid.org/0000-0002-0612-1036"
+  - family-names: Niazi
+    given-names: Imran Khan
+    orcid: "https://orcid.org/0000-0001-8752-7224"
+preferred-citation:
+  type: article
+  title: "SPAR-EEG: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel EEG Denoising"
+  journal: "IEEE Transactions on Neural Systems and Rehabilitation Engineering"
+  year: 2026
+  authors:
+    - family-names: Shaikh
+      given-names: Usman Qamar
+    - family-names: Kalra
+      given-names: Anubha Manju
+    - family-names: Lowe
+      given-names: Andrew
+    - family-names: Niazi
+      given-names: Imran Khan

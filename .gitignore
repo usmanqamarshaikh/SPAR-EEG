@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+.matlab_prefdir/
+.matlab_localappdata/
+.matlab_appdata/
+.mplconfig/
+
+# Local datasets and generated outputs
+data/*
+!data/README.md
+results/*
+!results/.gitkeep
+**/data/*.h5
+**/outputs/
+**/results/
+*.set
+*.fdt
+*.xdf
+*.mat
+*.h5
+*.hdf5
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
