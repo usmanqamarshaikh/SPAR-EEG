@@ -23,6 +23,10 @@ preferred-citation:
   title: "SPAR-EEG: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel EEG Denoising"
   journal: "IEEE Transactions on Neural Systems and Rehabilitation Engineering"
   year: 2026
+  month: 9
+  doi: "10.1109/TNSRE.2026.3734253"
+  url: "https://ieeexplore.ieee.org/document/11693065"
+  notes: "Early Access; published 16 September 2026."
   authors:
     - family-names: Shaikh
       given-names: Usman Qamar

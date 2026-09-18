@@ -1,6 +1,6 @@
 # Release Manifest
 
-This manifest maps the accepted article's availability statement to public repository content.
+This manifest maps the published article's availability statement to public repository content.
 
 | Promised material | Repository location |
 |---|---|
@@ -17,4 +17,7 @@ This manifest maps the accepted article's availability statement to public repos
 | Frozen-code checksums and provenance | `docs/PROVENANCE.md` |
 | Verified software environment | `docs/TESTED_ENVIRONMENT.md` |
 
-The exercise EEG dataset is not publicly distributed. The DOI and final IEEE citation should be added after publication.
+The exercise EEG dataset is not publicly distributed. The article was published
+in IEEE TNSRE Early Access on 16 September 2026 with DOI
+[10.1109/TNSRE.2026.3734253](https://doi.org/10.1109/TNSRE.2026.3734253).
+Volume and page details will be added when assigned.

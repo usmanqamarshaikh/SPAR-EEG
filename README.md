@@ -4,11 +4,11 @@
 
 SPAR-EEG is a self-contained MATLAB pipeline for selective attenuation of EMG bursts, blink-like ocular transients, and slow drift artifacts in single-channel EEG. It combines an EMG-oriented variational mode decomposition (VMD) pass with two singular spectrum analysis (SSA) passes for ocular transients and slow drift. Artifact-dominant component regions are attenuated rather than rejecting complete components.
 
-This repository accompanies the accepted IEEE Transactions on Neural Systems and Rehabilitation Engineering article:
+This repository accompanies the IEEE Transactions on Neural Systems and Rehabilitation Engineering article:
 
-> U. Q. Shaikh, A. M. Kalra, A. Lowe, and I. K. Niazi, "SPAR-EEG: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel EEG Denoising," accepted for publication in IEEE TNSRE, 2026.
+> U. Q. Shaikh, A. M. Kalra, A. Lowe, and I. K. Niazi, "SPAR-EEG: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel EEG Denoising," IEEE Transactions on Neural Systems and Rehabilitation Engineering, Early Access, 16 September 2026, doi: [10.1109/TNSRE.2026.3734253](https://doi.org/10.1109/TNSRE.2026.3734253).
 
-The DOI and final bibliographic details will be added after IEEE Xplore publication.
+The open-access article is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/11693065). Volume and page details will be added when assigned.
 
 The released MATLAB pass files are the frozen production implementations used
 for the reported analyses. Their provenance and SHA-256 checksums are recorded
@@ -94,7 +94,20 @@ The benchmark folder contains research code for reproducing comparisons with wav
 
 ## Citation
 
-Citation metadata are provided in [CITATION.cff](CITATION.cff). Please cite the TNSRE article when the final IEEE Xplore record becomes available.
+Citation metadata are provided in [CITATION.cff](CITATION.cff). Please cite the associated article when using SPAR-EEG:
+
+```bibtex
+@article{shaikh2026spareeg,
+  author = {Shaikh, Usman Qamar and Kalra, Anubha Manju and Lowe, Andrew and Niazi, Imran Khan},
+  title = {{SPAR-EEG}: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel {EEG} Denoising},
+  journal = {IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  year = {2026},
+  month = sep,
+  note = {Early Access},
+  doi = {10.1109/TNSRE.2026.3734253},
+  url = {https://ieeexplore.ieee.org/document/11693065}
+}
+```
 
 ## Contact
 
