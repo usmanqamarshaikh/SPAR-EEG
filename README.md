@@ -6,9 +6,9 @@ SPAR-EEG is a self-contained MATLAB pipeline for selective attenuation of EMG bu
 
 This repository accompanies the IEEE Transactions on Neural Systems and Rehabilitation Engineering article:
 
-> U. Q. Shaikh, A. M. Kalra, A. Lowe, and I. K. Niazi, "SPAR-EEG: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel EEG Denoising," IEEE Transactions on Neural Systems and Rehabilitation Engineering, Early Access, 16 September 2026, doi: [10.1109/TNSRE.2026.3734253](https://doi.org/10.1109/TNSRE.2026.3734253).
+> U. Q. Shaikh, A. M. Kalra, A. Lowe, and I. K. Niazi, "SPAR-EEG: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel EEG Denoising," IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 34, pp. 4078-4089, 2026, doi: [10.1109/TNSRE.2026.3734253](https://doi.org/10.1109/TNSRE.2026.3734253).
 
-The open-access article is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/11693065). Volume and page details will be added when assigned.
+The open-access article is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/11693065).
 
 The released MATLAB pass files are the frozen production implementations used
 for the reported analyses. Their provenance and SHA-256 checksums are recorded
@@ -102,8 +102,8 @@ Citation metadata are provided in [CITATION.cff](CITATION.cff). Please cite the 
   title = {{SPAR-EEG}: Selective Pass-Wise Artifact Reduction for Wearable Single-Channel {EEG} Denoising},
   journal = {IEEE Transactions on Neural Systems and Rehabilitation Engineering},
   year = {2026},
-  month = sep,
-  note = {Early Access},
+  volume = {34},
+  pages = {4078--4089},
   doi = {10.1109/TNSRE.2026.3734253},
   url = {https://ieeexplore.ieee.org/document/11693065}
 }
